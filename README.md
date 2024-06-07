@@ -1,24 +1,4 @@
-# contact-me
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#Ступницька Софія Миколаївна, КВ-12
+##Тема: “ Розробка Web-додатка засобами Javascript/VueJS ”
+##Постановка задачі: адаптувати програмний код ЛР№2 до вимог фреймворка VueJS та забезпечити завантаження необхідних даних з Web-сервера.
+https://docs.google.com/document/d/1I-PsSwQN16xJoP94x4M4Y3TUXGmdQ9oKpU6DEX9hH5A/edit?usp=sharing
